@@ -18,15 +18,14 @@
 class Moon:
     name       = "Moon"
     location   = "India 🇮🇳"
-    email      = "moonflare786@gmail.com"
-    
+
     languages  = ["Python", "JavaScript", "HTML", "CSS"]
     frameworks = ["Flask", "Cloudflare Workers", "Waitress"]
     tools      = ["GitHub Actions", "Render", "Telegram Bot API", "TMDB API"]
     
     currently  = "Building web apps & automation tools"
     learning   = "More about serverless & edge computing"
-    fun_fact   = "I debug with print() and I'm proud of it 😄"
+    fun_fact   = "I debug with print() and I'm proud of it :)"
 ```
 
 ---
