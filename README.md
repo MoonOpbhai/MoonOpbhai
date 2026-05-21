@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c1f,50:ff6a00,100:ffd166&height=200&section=header&text=Moon Fuego&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20India%20🇮🇳&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c1f,50:ff6a00,100:ffd166&height=200&section=header&text=Moon%20Fuego&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20India%20🇮🇳&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
