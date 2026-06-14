@@ -333,10 +333,6 @@ A **CSS-forward mobile-first list management application** — engineered for sm
 
 ---
 
-## 🐍 Contribution Snake
-
-> ⚠️ **Snake Setup Required** — Add the GitHub Action below to auto-generate your snake animation!
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoonOpbhai/MoonOpbhai/output/github-contribution-grid-snake-dark.svg" />
