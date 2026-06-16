@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MoonOpbhai&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Moon%20Fuego&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 ## 🧠 About Me
 
 ```yaml
-name       : MoonOpbhai
+name       : Moon Fuego
 role       : Full Stack Engineer & AI/ML Developer
 location   : India
 languages  : Python · JavaScript · HTML · CSS
@@ -256,6 +256,36 @@ A **CSS-forward mobile-first list management application** — engineered for sm
 | **Edge Computing** | Deployed AI-powered apps on Cloudflare's global edge network |
 | **Zero-Framework Mastery** | Built production-grade apps using only HTML, CSS, and vanilla JS |
 | **Open Source Contributor** | Maintained 7 public repositories with real-world utility |
+
+---
+
+## 🎖️ GitHub Achievements
+
+<p align="center">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="64" title="Pull Shark — Get PRs merged" />
+  &nbsp;
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="64" title="Quickdraw — Close issue/PR in 5 mins" />
+  &nbsp;
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="64" title="YOLO — Merge PR without review" />
+  &nbsp;
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/galaxy-brain-default.png?raw=true" width="64" title="Galaxy Brain — Get answers accepted in Discussions" />
+  &nbsp;
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" width="64" title="Pair Extraordinaire — Co-author a merged PR" />
+  &nbsp;
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/starstruck-default.png?raw=true" width="64" title="Starstruck — Repo reaches 16 stars" />
+  &nbsp;
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/public-sponsor-default.png?raw=true" width="64" title="Public Sponsor — Sponsor a GitHub user" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull%20Shark-Merged%20PRs-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Quickdraw-Speed%20Closer-A855F7?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/YOLO-No%20Review%20Merge-6D28D9?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-Discussion%20Expert-C084FC?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+</p>
 
 ---
 
